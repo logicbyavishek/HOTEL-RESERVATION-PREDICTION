@@ -61,3 +61,5 @@ source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
 python application.py
 
+<img width="1919" height="1077" alt="Screenshot 2025-08-16 091717" src="https://github.com/user-attachments/assets/0a7d1ece-8b30-4dac-8d97-bb7176b8091b" />
+
