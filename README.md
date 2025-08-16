@@ -46,6 +46,9 @@ The goal is to predict whether a hotel reservation will be honored or canceled u
 10. **App Building & Deployment** – Flask app deployed on Google Cloud Run  
 
 ---
+## Live Preview Demo
+
+<img width="1919" height="1077" alt="Screenshot 2025-08-16 091717" src="https://github.com/user-attachments/assets/9df48669-7bf1-405f-8c20-ab44b5231aab" />
 
 
 ---
@@ -61,5 +64,5 @@ source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
 python application.py
 
-<img width="1919" height="1077" alt="Screenshot 2025-08-16 091717" src="https://github.com/user-attachments/assets/0a7d1ece-8b30-4dac-8d97-bb7176b8091b" />
+'''
 
