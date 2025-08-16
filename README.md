@@ -64,5 +64,4 @@ source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
 python application.py
 
-'''
 
